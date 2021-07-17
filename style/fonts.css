@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Arial";
+    src: url(../fonts/ofont.ru_Arial.ttf);
+}
+
+@font-face {
+    font-family: "OpenSansnormal";
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "OpenSansbold";
+    src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+}
